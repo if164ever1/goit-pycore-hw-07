@@ -5,7 +5,6 @@
 This project is an advanced object-oriented programming project in Python that extends our previous homeworks by implementing an **address book assistant bot**. The bot allows you to manage contacts, including phone numbers and birthdays, and provides useful commands for interaction.
 
 ## 📦 Project Structure
-
 goit-pycore-hw-07/ │ ├── fields.py # Contains Field, Name, Phone, and Birthday classes. 
                      ├── record.py # Contains the Record class with methods for managing phones birthdays. 
                      ├── addressbook.py # Contains the AddressBook class, a custom dictionary for storing contacts. 
